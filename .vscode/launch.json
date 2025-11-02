@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/thaku/OneDrive/Desktop/dsa/.vscode",
-      "program": "c:/Users/thaku/OneDrive/Desktop/dsa/.vscode/build/Debug/outDebug",
+      "cwd": "c:/Users/thaku/OneDrive/Desktop/dsa",
+      "program": "c:/Users/thaku/OneDrive/Desktop/dsa/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
